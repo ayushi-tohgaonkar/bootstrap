@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+
+}
+
+.image{
+    position: relative;
+    height:134px ;
+    width: 144px;
+top: 40px;
+    border: transparent;
+    border-radius: 50%;
+    margin-left: 120px;
+
+}
+
+
+.head{
+position: relative;
+left: 130px;
+top: 55px;
+
+}
+
+
+
+
